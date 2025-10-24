@@ -7,8 +7,8 @@ A full-stack investment portfolio application demonstrating modern web developme
 ## 🚀 Quick Start
 
 ```bash
-git clone <repository-url>
-cd manulife-test
+git clone https://github.com/isaachkwu/investo
+cd investo
 docker compose up -d
 
 # Access: http://localhost:5173 (Frontend) | http://localhost:3000 (API)
