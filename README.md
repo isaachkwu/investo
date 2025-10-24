@@ -101,6 +101,4 @@ GET  /transaction, /transfer     # Transaction history
 
 ---
 
-**Development Time:** ~2 weeks | **Focus:** Full-stack proficiency, financial domain knowledge, modern React patterns
-
 Built to showcase enterprise-level development practices and attention to user experience in financial applications.
