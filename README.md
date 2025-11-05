@@ -63,8 +63,7 @@ GET  /transaction, /transfer     # Transaction history
 ### Frontend Architecture
 - **TanStack Query** for server state management with caching
 - **Type-safe routing** with search params and navigation
-- **Error boundaries** with graceful fallbacks and retry mechanisms  
-- **Performance optimization** with React.memo and lazy loading
+- **Error boundaries** with graceful fallbacks and retry mechanisms
 
 ### Backend Architecture  
 - **Modular routing** with middleware composition
